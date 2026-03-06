@@ -1,0 +1,13 @@
+# Manipulation de données et fichiers Excel
+pandas
+openpyxl
+
+# Connexion à la base de données Graphe
+neo4j
+
+# Utilitaire pour les expressions régulières et fichiers (généralement inclus dans Python)
+# re
+# os
+# sqlite3
+
+# pip install -r requirements.txt
